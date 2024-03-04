@@ -1,6 +1,6 @@
 import requests
 
-print("********   GENERACION DE TARJETAS6 **********")
+print("********   GENERACION DE TARJETAS **********")
 
 
 num_tarjetas = int(input('Cuantas tarjetas quieres generar?:'))
